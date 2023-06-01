@@ -13,6 +13,15 @@
 
 <br>
 
+<h1>History/Experience </h1>
+
+- 2016
+  - Cetificate of Attendance For attending the 21st Asian Technology Conference in Mathmatics (ATCM 2016) in Pattaya, Thailand, December 14-18,2016
+- 2017
+    - 1st of Robot Competitive Science Day @ Khon kaen University
+
+<br>
+
 <h1>My GitHub Stats </h1>
 <br>
 
@@ -27,10 +36,3 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossboxing&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<h1>History </h1>
-
-- 2016
-  - Cetificate of Attendance For attending the 21st Asian Technology Conference in Mathmatics (ATCM 2016) in Pattaya, Thailand, December 14-18,2016
-- 2017
-    - 1st of Robot Competitive Science Day @ Khon kaen University
