@@ -1,6 +1,6 @@
 <h1> Hello Everyone 👋🏻</h1>
 
-<img src=".\img\cover.png" alt="BossBoxing">
+<img src=".\img\profile_cover.png" alt="BossBoxing">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
