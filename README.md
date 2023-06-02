@@ -18,11 +18,11 @@
 - 2016
   - Performance Awards of World Robot Games 2016 "Robo Fire Fighting" And Joined Thailand Robot Team (Thailand representative.)
   @ Bandung, Indonesia
-  - Has Participated in the 21st Asian Technology Conference in Mathmatics (ATCM 2016) in Pattaya, Thailand, December 14-18,2016
-  - Gold Prize of OBEC High-Level Robot Competition (Student Arts And Crafts Competition - National Level) @ Thammasat University Convention Center
-  - 3rd Winner Prize for The TPA-OBEC Junior Robot Contest Thailand Championship 2016 "Robo Fire Fighting"
   - 1st Winner Prize for Robot Competition Thailand STEM Festival 2016
   - 1st Winner Prize of The Disaster Robot for Supreme Robotics 2016 @Supreme Complex, Thailand
+  - 3rd Winner Prize for The TPA-OBEC Junior Robot Contest Thailand Championship 2016 "Robo Fire Fighting"
+  - Has Participated in the 21st Asian Technology Conference in Mathmatics (ATCM 2016) in Pattaya, Thailand, December 14-18,2016
+  - Gold Prize of OBEC High-Level Robot Competition (Student Arts And Crafts Competition - National Level) @ Thammasat University Convention Center
   - Has Participated in the Basic Robotics Workshop for FIBO Youth @FIBO KMUTT
 - 2017
     - 1st Winner Prize of Lego Robot Contest on Science Day @ Khon kaen University
