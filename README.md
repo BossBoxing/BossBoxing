@@ -15,6 +15,7 @@
 
 <h1>History/Experience </h1>
 
+History (Awards,etc.)
 - 2016
   - Performance Awards of World Robot Games 2016 "Robo Fire Fighting" And Joined Thailand Robot Team (Thailand representative.)
   @ Bandung, Indonesia
@@ -33,8 +34,12 @@
 - 2018
     - 2nd Winner Prize of OBEC High-Level Robot Competition (Student Arts And Crafts Competition - National Level) 
 
+Experience
+- 05/2022 - 06/2022
+  - Web Programmer Trainee @ Khon kaen Softtech co.,ltd.
+- 06/2022 - Present
+  - Software Programmer @ Friend Robot (Khon Kaen, Thailand)
 <br>
-
 <h1>My GitHub Stats </h1>
 <br>
 
