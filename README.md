@@ -4,7 +4,7 @@
 <img src=".\img\profile_cover.png" alt="BossBoxing">
 
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=24&duration=4000&pause=1000&color=4E99F7&center=true&width=435&lines=Hello+Everyone.;I'm+Hudsawat.;He%2FHis;Computer+Science." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=24&duration=4000&pause=1000&color=4E99F7&center=false&width=435&lines=Hello+Everyone.;I'm+Hudsawat.;He%2FHis;Computer+Science." alt="Typing SVG" /></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
