@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://web.facebook.com/BigBossRomantic" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%A9-%E0%B8%AD%E0%B8%B1%E0%B8%84%E0%B8%95%E0%B8%B4-bb7759234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hudsawat-akkati-bb7759234/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bossboxing_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 
@@ -16,9 +16,22 @@
 <h1>History/Experience </h1>
 
 - 2016
-  - Cetificate of Attendance For attending the 21st Asian Technology Conference in Mathmatics (ATCM 2016) in Pattaya, Thailand, December 14-18,2016
+  - Performance Awards of World Robot Games 2016 "Robo Fire Fighting" And Joined Thailand Robot Team (Thailand representative.)
+  @ Bandung, Indonesia
+  - Has Participated in the 21st Asian Technology Conference in Mathmatics (ATCM 2016) in Pattaya, Thailand, December 14-18,2016
+  - Gold Prize of OBEC High-Level Robot Competition (Student Arts And Crafts Competition - National Level) @ Thammasat University Convention Center
+  - 3rd Winner Prize for The TPA-OBEC Junior Robot Contest Thailand Championship 2016 "Robo Fire Fighting"
+  - 1st Winner Prize for Robot Competition Thailand STEM Festival 2016
+  - 1st Winner Prize of The Disaster Robot for Supreme Robotics 2016 @Supreme Complex, Thailand
+  - Has Participated in the Basic Robotics Workshop for FIBO Youth @FIBO KMUTT
 - 2017
-    - 1st of Robot Competitive Science Day @ Khon kaen University
+    - 1st Winner Prize of Lego Robot Contest on Science Day @ Khon kaen University
+    - 1st Winner Prize of RESCUE CHALLANGE "ROBO-RESCUE" in Digital Thailand Big bang 2017
+    - 2nd Winner Prize of OBEC High-Level Robot Competition (Student Arts And Crafts Competition - National Level) @ Thammasat University Convention Center
+    - Has Participated in TPA-OBEC Junior Robot Contest Thailand Championship 2017 "Robo Rescue"
+    - Gold Prize of Innovation fair using research process Kanchanapisek Wittayalai School Group
+- 2018
+    - 2nd Winner Prize of OBEC High-Level Robot Competition (Student Arts And Crafts Competition - National Level) 
 
 <br>
 
