@@ -1,22 +1,26 @@
 
-<h1>👋🏻 Hello Everyone</h1>
+<h1 align="center">👋🏻 Hello Everyone</h1>
 
-<img src=".\img\profile_cover.png" alt="BossBoxing">
+<img align="center" src=".\img\profile_cover.png" alt="BossBoxing">
 
-<div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=24&duration=4000&pause=1000&color=4E99F7&center=false&width=435&lines=Hello+Everyone.;I'm+Hudsawat.;He%2FHim;Computer+Science." alt="Typing SVG" /></a>
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=24&duration=4000&pause=1000&color=4E99F7&center=true&width=435&lines=Hello+Everyone.;I'm+Hudsawat.;He%2FHim;Computer+Science." alt="Typing SVG" />
+</a>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://web.facebook.com/BigBossRomantic" target="blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hudsawat-akkati/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bossboxing_/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
-<br>
-<br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://web.facebook.com/BigBossRomantic" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hudsawat-akkati/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bossboxing_/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BossBoxing&label=Visits)
+
+</div>
 
 <br>
 
