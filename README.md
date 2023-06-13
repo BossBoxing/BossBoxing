@@ -1,5 +1,5 @@
 
-<h1 align="center">👋🏻 Hello Everyone</h1>
+<h1 align="center"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" width="28px" alt="👋"> Hello Everyone</h1>
 
 <img align="center" src=".\img\profile_cover.png" alt="BossBoxing">
 
@@ -24,7 +24,7 @@
 
 <br>
 
-<h1>👨‍💻 History/Experience </h1>
+<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f441_fe0f/512.webp" width="28px" alt="👨‍💻"> History/Experience </h1>
 
 History (Awards,etc.)
 - 2016
