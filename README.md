@@ -91,8 +91,6 @@ Experience
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="32" height="32">
-
 <a href="https://github.com/sponsors/BossBoxing">
 Github Sponsor <-  Buy some coffee for me. 
 </a>
