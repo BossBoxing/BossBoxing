@@ -87,7 +87,7 @@ Experience
 <br>
 <br>
 
-<h1>Support Me</h1>
+<h1>Support me</h1>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
