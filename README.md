@@ -91,8 +91,12 @@ Experience
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="32" height="32">
+
 <a href="https://github.com/sponsors/BossBoxing">
-Github Sponsor <- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="20" height="20"> Buy some coffee for me. 
+Github Sponsor <-  Buy some coffee for me. 
 </a>
+
+<br>
 
 ![GitHub Sponsor](https://img.shields.io/github/sponsors/BossBoxing?label=Sponsor&logo=GitHub)
