@@ -91,4 +91,4 @@ Experience
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<iframe src="https://github.com/sponsors/BossBoxing/button" title="Sponsor BossBoxing" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+![GitHub Sponsor](https://img.shields.io/github/sponsors/BossBoxing?label=Sponsor&logo=GitHub)
