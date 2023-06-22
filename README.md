@@ -20,11 +20,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BossBoxing&label=Visits)
 
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg">
+
+
 </div>
 
 <br>
 
 <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f441_fe0f/512.webp" width="28px" alt="👨‍💻"> History/Experience </h1>
+
+<details>
 
 History (Awards,etc.)
 - 2016
@@ -50,6 +55,9 @@ Experience
   - Web Programmer Trainee @ Khon kaen Softtech co.,ltd.
 - 06/2022 - Present
   - Software Programmer @ Friend Robot (Khon Kaen, Thailand)
+
+</details>
+
 <br>
 <h1>📊 My GitHub Stats </h1>
 <details>
@@ -70,6 +78,8 @@ Experience
 <br>
 
 <h1>👨‍💻 My Most Used Languages </h1>
-<br>
+<details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossboxing&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
