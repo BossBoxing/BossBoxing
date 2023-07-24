@@ -53,8 +53,10 @@ History (Awards,etc.)
 Experience
 - 05/2022 - 06/2022
   - Web Programmer Trainee @ Khon kaen Softtech co.,ltd.
-- 06/2022 - Present
+- 06/2022 - 06/2023
   - Software Programmer @ Friend Robot (Khon Kaen, Thailand)
+- 06/2023 - Present
+  - Full Stack Developer @ THAI DATA CLOUD
 
 </details>
 
