@@ -1,7 +1,7 @@
 
 <h1 align="center"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" width="28px" alt="👋"> Hello Everyone</h1>
 
-<img align="center" src=".\img\profile_cover.png" alt="BossBoxing">
+<img align="center" src=".\img\bossdev_v2.png" alt="BossBoxing">
 
 <div align="center">
 <a href="https://git.io/typing-svg">
